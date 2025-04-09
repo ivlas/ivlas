@@ -1,3 +1,1 @@
 Reinventing the same wheel over and over again...
-
-Currently learning [ml.core](https://github.com/ivlas/ml.core)
